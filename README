@@ -1,0 +1,1 @@
+Minilibc is a simple C implementation. For the moment it doesn't implement memory allocation, therefore it requires a working malloc() implementation.
